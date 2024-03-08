@@ -4,10 +4,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SQL Lab(Coursera)</b>
-  - [Practicing Filters](https://github.com/Nikodlc01/SQL-Lab)
+  - [Filters in SQL](https://github.com/Nikodlc01/SQL-Lab)
  
-- <b>Linux Line-Command(Coursera)</b>
-  - [Practicing Permissions](https://github.com/Nikodlc01/Linux-Lab)
+- <b>Linux Lab(Coursera)</b>
+  - [Permissions in Linux](https://github.com/Nikodlc01/Linux-Lab)
+ 
+- <b>Python Lab(Coursera)</b>
+  - [Update Files in Python](https://github.com/Nikodlc01/Python-Lab)
   
 <h2>Certifications</h2>
 
